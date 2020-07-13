@@ -1,4 +1,4 @@
-### My profile 👋
+### Hello 👋
 
 - 🔭 I’m currently working on system design
 - 🌱 I’m currently learning compiler technique
